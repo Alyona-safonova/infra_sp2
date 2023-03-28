@@ -11,12 +11,12 @@
 [Ссылка на репозиторий, в котором велась разработка проекта в команде] (https://github.com/Alyona-safonova/api-yamdb)
 
 ### Технологии
-Python 3.7
-Django 3.2
-Django REST Framework 3.12.4
-Docker
-Gunicorn
-Nginx
+- Python 3.7
+- Django 3.2
+- Django REST Framework 3.12.4
+- Docker
+- Gunicorn
+- Nginx
 
 ### Как запустить проект:
 
